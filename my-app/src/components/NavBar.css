@@ -81,7 +81,7 @@
     }
 
     .nav-menu {
-        display: flex;
+        display: inline;
         flex-direction: column;
         width: 100%;
         height: 90vh;
