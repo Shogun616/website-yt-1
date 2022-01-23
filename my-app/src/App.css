@@ -16,29 +16,23 @@
   font-size: 3rem;
 }
 
-/*.services {*/
-/*  background-image: url('public/images/img-2.jpg');*/
-/*  background-position: center;*/
-/*  background-size: cover;*/
-/*  background-repeat: no-repeat;*/
-/*  color: #fff;*/
-/*  font-size: 100px;*/
-/*}*/
+.services {
+  background-size: cover;
+  background-image: url("/public/images/img-2.jpg");
+  color: #fff;
+  font-size: 100px;
+}
 
-/*.products {*/
-/*  background-image: url('public/images/img-1.jpg');*/
-/*  background-position: center;*/
-/*  background-size: fill;*/
-/*  background-repeat: no-repeat;*/
-/*  color: #fff;*/
-/*  font-size: 100px;*/
-/*}*/
+.products {
+  background-size: cover;
+  background-image: url("/public/images/img-1.jpg");
+  color: #fff;
+  font-size: 100px;
+}
 
-/*.sign-up {*/
-/*  background-image: url('public/images/img-8.jpg');*/
-/*  background-position: center;*/
-/*  background-size: cover;*/
-/*  background-repeat: no-repeat;*/
-/*  color: #fff;*/
-/*  font-size: 100px;*/
-/*}*/
+.sign-up {
+  background-size: cover;
+  background-image: url("/public/images/img-8.jpg");
+  color: #fff;
+  font-size: 100px;
+}
